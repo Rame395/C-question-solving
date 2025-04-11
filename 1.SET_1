@@ -1,0 +1,9 @@
+1. Write a C++ program that takes two floating point numbers as input and prints
+their sum.
+2. Create a C++ program that checks whether a given integer is odd or even.
+3. Write a function that takes a pointer to an array of integers and its size, then
+prints each element.
+4. Implement a class Student with private attributes name and age. Provide public
+methods to set and get these attributes.
+5. Create a base class Animal with an attribute name. Derive a class Dog that has an
+additional method bark.
